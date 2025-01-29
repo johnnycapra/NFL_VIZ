@@ -16,7 +16,7 @@ This project visualizes the cumulative Super Bowl wins of NFL teams from 1967 to
 4. **Evaluation & Refinement**: Gather feedback to assess usability and effectiveness, iterating on design improvements.  
 
 
-## **Screenshots & Visualization Link**  
+## **Visualization Link**  
 
 If video below doesn't render, here is link to viz: https://drive.google.com/file/d/1FR4XkMLCeSQ_ZaYYWx9a6BbyEVqF5_UZ/view?usp=sharing
 
